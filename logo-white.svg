@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- White version for dark backgrounds -->
+  <!-- Triangular A background -->
+  <path d="M24 4L42 44H32L29 36H19L16 44H6L24 4Z" fill="#FFFFFF" opacity="0.95"/>
+  <!-- Inner swoosh wave element -->
+  <path d="M24 12C24 12 20 22 18 28C16 34 16 38 20 40C24 42 28 40 30 36C32 32 32 28 30 24C28 20 24 12 24 12Z"
+        fill="#007AFF" opacity="0.9"/>
+  <!-- Triangle outline for definition -->
+  <path d="M24 4L42 44H32L29 36H19L16 44H6L24 4Z" stroke="#B0C4DE" stroke-width="0.5" fill="none" opacity="0.4"/>
+</svg>
